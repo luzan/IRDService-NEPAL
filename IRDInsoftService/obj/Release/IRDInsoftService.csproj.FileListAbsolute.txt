@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2017\Projects\Insoft\IRDInsoftService\IRDInsoftService\bin\Release\IRDInsoftService.exe.config
+D:\Documents\Visual Studio 2017\Projects\Insoft\IRDInsoftService\IRDInsoftService\bin\Release\IRDInsoftService.exe
+D:\Documents\Visual Studio 2017\Projects\Insoft\IRDInsoftService\IRDInsoftService\bin\Release\IRDInsoftService.pdb
+D:\Documents\Visual Studio 2017\Projects\Insoft\IRDInsoftService\IRDInsoftService\obj\Release\IRDInsoftService.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Insoft\IRDInsoftService\IRDInsoftService\obj\Release\IRDInsoftService.exe
+D:\Documents\Visual Studio 2017\Projects\Insoft\IRDInsoftService\IRDInsoftService\obj\Release\IRDInsoftService.pdb
+D:\Documents\Visual Studio 2017\Projects\Insoft\IRDInsoftService\IRDInsoftService\bin\Release\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\Insoft\IRDInsoftService\IRDInsoftService\obj\Release\IRDInsoftService.csprojResolveAssemblyReference.cache
